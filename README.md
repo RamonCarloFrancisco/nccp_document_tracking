@@ -1,8 +1,8 @@
-#NCCP Document Management System with Tracking Feature
+NCCP Document Management System with Tracking Feature
 
-#Source Code: https://github.com/RamonCarloFrancisco/nccp_document_tracking
+Source Code: https://github.com/RamonCarloFrancisco/nccp_document_tracking
 
-#Important Notice: 
+Important Notice: 
 
 This repository contains static files only. The system is built using PHP, which cannot be executed directly on GitHub Pages. Therefore, you will not see the full functionality or working demo when viewing the repository on GitHub.
 About This Repository
