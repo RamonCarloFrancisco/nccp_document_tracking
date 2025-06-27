@@ -8,8 +8,6 @@ This repository contains static files only. The system is built using PHP, which
 
 This repository contains the complete source code for the NCCP Document Management System with Tracking Feature, compiled as static files for version control and sharing purposes.
 
-Technology Stack
-
 Backend: PHP
 
 Frontend: HTML, CSS, JavaScript
